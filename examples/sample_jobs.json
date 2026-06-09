@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Senior Python Developer",
+    "company": "TechCorp",
+    "description": "We're looking for an experienced Python developer to join our growing team. You'll work on building scalable backend systems and APIs using modern Python frameworks. Our stack includes Django, FastAPI, and microservices architecture.",
+    "requirements": "5+ years of Python experience, proficiency with Django or FastAPI, PostgreSQL, Redis, Docker, Kubernetes, AWS or GCP, strong understanding of system design and microservices",
+    "url": "https://techcorp.example.com/careers/senior-python-dev",
+    "location": "San Francisco, CA",
+    "job_type": "full-time",
+    "salary": "$150,000 - $200,000",
+    "posted_date": "2024-01-10"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "DataAI",
+    "description": "DataAI is seeking a talented Machine Learning Engineer to develop and deploy ML models. Work with large datasets, build pipelines, and collaborate with product teams to deliver impactful ML solutions.",
+    "requirements": "3+ years ML experience, Python, TensorFlow/PyTorch, Scikit-learn, SQL, familiarity with MLOps, Airflow or similar workflow tools, experience with GCP or AWS ML services",
+    "url": "https://dataai.example.com/jobs/ml-engineer",
+    "location": "Remote",
+    "job_type": "full-time",
+    "salary": "$140,000 - $180,000",
+    "posted_date": "2024-01-08"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudSys Inc",
+    "description": "Help us scale our cloud infrastructure. We need a DevOps engineer with strong Kubernetes experience to manage our deployment pipelines and infrastructure as code.",
+    "requirements": "4+ years DevOps experience, Kubernetes, Docker, CI/CD pipelines, Infrastructure as Code (Terraform, CloudFormation), Linux, AWS or GCP, Helm charts",
+    "url": "https://cloudsys.example.com/careers/devops",
+    "location": "New York, NY",
+    "job_type": "full-time",
+    "salary": "$130,000 - $170,000"
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "company": "WebStudio",
+    "description": "Join our creative team to build beautiful, responsive web applications. We use React for frontend and Node.js for backend, and we're passionate about clean code and user experience.",
+    "requirements": "3+ years React experience, Node.js/Express, PostgreSQL, REST APIs, Git, experience with modern frontend tooling",
+    "url": "https://webstudio.example.com/apply?id=420",
+    "location": "Austin, TX",
+    "job_type": "full-time",
+    "salary": "$110,000 - $140,000"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "InsightCorp",
+    "description": "InsightCorp harnesses data to drive business decisions. We're looking for a data scientist to develop predictive models and insights from complex datasets.",
+    "requirements": "3+ years data science experience, Python, pandas, scikit-learn, statistical analysis, SQL, experience with BI tools like Tableau or Looker",
+    "url": "https://insightcorp.example.com/jobs/data-scientist",
+    "location": "Boston, MA",
+    "job_type": "full-time",
+    "salary": "$120,000 - $160,000"
+  }
+]
